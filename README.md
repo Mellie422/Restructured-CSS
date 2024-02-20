@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+Starter code was from https://github.com/coding-boot-camp/urban-octo-telegram
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
